@@ -6,6 +6,5 @@ Medimate uses llama-2 quantized model from huggingface that basically provides y
 that includes merk manual etc .
 
 # Installation 
-Clone this repository to your local machine.
-
-cd MediMateAI
+1 : Clone this repository to your local machine.
+      cd MediMateAI
